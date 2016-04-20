@@ -1,0 +1,4 @@
+baseurl = "http://abcmakerspace.github.io/"
+languageCode = "pt-Br"
+title = "ABC Makerspace"
+theme = "bleak"
