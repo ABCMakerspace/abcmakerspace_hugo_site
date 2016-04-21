@@ -1,0 +1,39 @@
+[articles]
+    read_more = "Leia mais"
+    words = "palavras"
+    readingtime = "Leitura rapida"
+    share = "Compartilhe"
+    comments = "Comentarios"
+
+# Linked older/newer posts at the bottom of each one
+[articles.linked_posts]
+    older = "Antigo"
+    newer = "Novo"
+
+[search]
+    placeholder = "Procurar"
+
+[pagination]
+    previous = "próximo"
+    next = "anterior"
+
+[profile]
+    follow_button = "Acompanhe no Face"
+    tags = "Tags"
+    posts = "Posts"
+
+[page_not_found]
+    title = "404 - page not found"
+    subtitle = "The content you're looking for doesn't seem to exist."
+
+[widgets.categories]
+    title = "Categorias"
+
+[widgets.recent_articles]
+    title = "Recentes"
+
+[widgets.tag_cloud]
+    title = "Tags"
+
+[widgets.tags]
+    title = "Tags"

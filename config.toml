@@ -20,8 +20,8 @@ theme = "hugo-icarus"
     author = "ABC Makerspace"
     bio = "Um lugar para divulgar conhecimento"
     location = "Santo André, SP"
-    site_description = ""
-    copyright  = ""
+    site_description = "Com a intenção de criar um local na região do ABC paulista para a troca de ideias, disseminação da cultura DIY (do it yourself - faça você mesmo), reunião de interessados em tecnologia de todo e qualquer tipo, estamos disponibilizando esse espaço que pode ser usado como oficina, sala de aula, sala de reunião, sala de palestras etc."
+    copyright  = "ABC Makerspace"
     avatar = "css/images/avatar.png"
 
     # Format dates with Go's time formatting
@@ -50,7 +50,7 @@ theme = "hugo-icarus"
 
 # Enter a link for the follow button on the left
 [params.profile]
-    follow_button = "https://github.com/abcmakerspace"
+    follow_button = "https://www.facebook.com/Abcmakerspace/"
 
 
 [social]
@@ -88,6 +88,6 @@ theme = "hugo-icarus"
 # Enable and disable widgets for the right sidebar
 [params.widgets]
     recent_articles = true
-    categories = true
-    tags = true
-    tag_cloud = true
+    categories = false
+    tags = false
+    tag_cloud = false
